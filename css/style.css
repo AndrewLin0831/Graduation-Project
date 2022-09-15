@@ -183,6 +183,27 @@
 	background-image: url(../images/avenue.jpg);
 	background-size: 100% 100%;
 }
+.downloadlist{
+	align-content: center;
+	justify-content: center;
+}
+.downloadItem{
+	width: 10vh;
+	height: 10vh;
+	margin-top: 12%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 2.5%;
+	border-radius: 20px;
+}
+
+.conceptualdesign{
+	width: 100%;
+	height: 90vh;
+	background-image: url(../images/platform.jpg);
+	background-size: 100% 100%;
+}
+
 #maintitle{
     line-height: 75px;
 	font-family: 'Dancing Script', cursive;
@@ -202,8 +223,8 @@
 	margin-top: 16%;
 }
 .blur{
-	width: 40%;
-	height: 30vh;
+	width: 13%;
+	height: 15vh;
 	position: absolute;
 	margin-left: 5%;
 	margin-top: 23%;
@@ -220,10 +241,12 @@
 	margin-top: 5%;
 }
 
+
+
 #Screen2{
 	width: 100%;
 	height: 90vh;
-	background-color: black;
+	background-color: white;
 }
 
 #Screen3{
